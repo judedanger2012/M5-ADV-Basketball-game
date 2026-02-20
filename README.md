@@ -5,5 +5,5 @@ to get the firmware on the device simply open the arduino ide download and set t
 when it's done and loaded it should look something like this:
 ![20260216_144445](https://github.com/user-attachments/assets/786e76e1-516b-4839-ada0-bf5461dcf0f9)
 
-and should function like this demonstration:
-https://drive.google.com/file/d/1vYmRCN2E_avhgLd9BCRZ2CIuFDSby6pY/view?usp=drivesdk
+and should function like this demonstration video shows:
+files/U091QTLCZHU/F0AG6E9GSQL/20260216_144453-1.gif
